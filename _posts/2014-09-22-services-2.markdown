@@ -1,8 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: reconstruction.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Open 3D Reconstruction
 description: |
 ---
   Turn your 2D designs into high quality, 3D
