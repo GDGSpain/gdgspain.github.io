@@ -1,8 +1,10 @@
 ---
 layout: default
-img: ipad.png
+img: octobiwan.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: What is Open source?<br>Why use GitHub?
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Open source software is software whose source code is available for modification or enhancement by anyone.
+
+"Source code" is the part of software that most computer users don't ever see; it's the code computer programmers can manipulate to change how a piece of software works. Programmers who have access to a computer program's source code can improve that program by adding features to it or fixing parts that don't always work correctly.
