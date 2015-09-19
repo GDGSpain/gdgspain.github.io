@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://open-gdgspain.github.io
+url: http://gdgspain.github.io
 title: Open GDG Spain
-email: gdgspain@gmail.com
+email: info@gdg.es
 author: Oscar Caballero (@oscar_pozas)
 description: > # "This is awesome description about web"
 
@@ -22,4 +22,4 @@ permalink: pretty
 
 social:
   - title: github
-    url: https://github.com/open-gdgspain
+    url: https://github.com/GDGSpain
